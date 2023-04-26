@@ -16,6 +16,12 @@ $ git config --global user.email "fullbell@naver.com" //사용자 email주소 �
 
 <br>
 
-## 😀 assignment
+## 😀 설명
+### day01
+- 저장소 clone, commit, push 등 기본적인 사용법
+### day02
+- branch 분기, pull request 요청 등 협업을 위한 기능
+### day03
+- 소스코드 병합과 충돌 시 해결 방법
 
 
