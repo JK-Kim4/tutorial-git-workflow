@@ -22,7 +22,9 @@ $ git config --global user.email "fullbell@naver.com" //사용자 email주소 �
 $git clone {원격저장소URL}
 ```
 - git clone 명령어 사용 방법입니다.
-
+<img width="404" alt="스크린샷 2023-04-28 오후 4 00 18" src="https://user-images.githubusercontent.com/106294538/235077670-4529a3ce-2889-4d19-af7f-d76278dc9c98.png">
+- repository 화면에서 <>code 버튼을 클릭하면 주소를 쉽게 복사할 수 있습니다.
+- 터미널을 실행 후 적당한 디렉토리로 이동하여 ```git clone https://github.com/Media-Changbi/tutorial-git-workflow``` 를 입력해줍시다.
 
 
 <br>
