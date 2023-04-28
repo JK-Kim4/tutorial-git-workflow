@@ -16,6 +16,17 @@ $ git config --global user.email "fullbell@naver.com" //사용자 email주소 �
 
 <br>
 
+## 😀 준비하기
+- 기본적인 git 사용법이 숙지되었다면, 튜토리얼 진행을 위해 프로젝트를 다운로드 해야합니다.
+```
+$git clone {원격저장소URL}
+```
+- git clone 명령어 사용 방법입니다.
+
+
+
+<br>
+
 ## 😀 설명
 ### day01
 - 저장소 clone, commit, push 등 기본적인 사용법
