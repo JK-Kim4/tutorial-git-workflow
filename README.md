@@ -18,10 +18,10 @@ $ git config --global user.email "fullbell@naver.com" //사용자 email주소 �
 
 ## 😀 준비하기
 - 기본적인 git 사용법이 숙지되었다면, 튜토리얼 진행을 위해 프로젝트를 다운로드 해야합니다.
-```
-$git clone {원격저장소URL}
-```
 - git clone 명령어 사용 방법입니다.
+```
+$ git clone {원격저장소URL}
+```
 <img width="200" alt="스크린샷 2023-04-28 오후 4 00 18" src="https://user-images.githubusercontent.com/106294538/235077670-4529a3ce-2889-4d19-af7f-d76278dc9c98.png">
 
 - repository 화면에서 code 버튼을 클릭하면 주소를 쉽게 복사할 수 있습니다.
