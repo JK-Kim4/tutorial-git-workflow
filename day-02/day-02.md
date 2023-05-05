@@ -16,6 +16,8 @@
 ---
 #### branch
 
+##### origin 이란?
+
 #### cheakout
 
 #### merge
