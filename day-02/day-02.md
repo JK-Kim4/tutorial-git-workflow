@@ -15,10 +15,25 @@
 ### 😃 참고 
 ---
 #### branch
+##### branch 명령어는 새로운 브랜치를 생성하거나 기존에 생성되어있는 브랜치 정보를 조회하기 위해 사용한다.
+- 조회(원격지): ```git branch -r```
+- 조회(전체): ```git branch -a```
+- 생성: ```git branch {생성branch이름}```
+<br>
 
-##### origin 이란?
+#### HEAD란?
+##### HEAD란 현재 작업중인 프랜치를 가리키는 포인터이다. HEAD포인터는 기본적으로 master branch를 가리키고있다.
+
+<br>
+
+#### origin 이란?
+
+<br>
 
 #### cheakout
+##### cheakout 명령어는 브랜치의 이동을 위해 사용한다.
+- 이동: ```git cheakout {이동할 branch 이름}```
+<br>
 
 #### merge
 
