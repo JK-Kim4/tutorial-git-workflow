@@ -37,11 +37,12 @@
 <br>
 
 #### commit
-
+##### &nbsp;&nbsp;&nbsp;&nbsp; 수정 완료 내역을 저장소에 반영하기 위해서는 ```$ git commit```명령어를 입력하여 반영할 수 있다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 옵션을 사용하지 않고 commit 명령어만 입력시 편집기를 통하여 메세지를 입력할 수 있다.<br>&nbsp;&nbsp;&nbsp;&nbsp; commit 명령어와 함께 바로 메세지 입력을 위해서는 -m 옵션을 추가하여 ```$ git commit -m "commit message"```와 같이 사용할 수 있다.
 
 <br>
 
 #### push
+##### &nbsp;&nbsp;&nbsp;&nbsp; 원격 저장소를 통해 버전관리를 하고 있을 경우, 로컬 저장소의 commit 내역을 원격지에 반영하기 위해서 ```$ git push origin [branch명]```명령어를 사용할 수 있다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 만약 commit 이력에 포함되어있는 파일과 동일한 파일에 원격지 수정 사항이 있을 경우 소스코드 충돌이 발생하여 push되지 않는다.
 
 
 <br>
