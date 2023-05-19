@@ -15,6 +15,11 @@
 
 ### 😃 참고 
 ---
+#### git lifecycle
+![lifecycle](https://github.com/JK-Kim4/tutorial-git-workflow/assets/68538676/0ffca2de-03fa-4af4-aeb9-1f573e02a4d7)
+
+  
+  
 #### status
 ##### &nbsp;&nbsp;&nbsp;&nbsp; git으로의 이력 관리를 위해서는 워킹 디렉토리의 파일을 추적 상태로 변경해주어야합니다.<br>&nbsp;&nbsp;&nbsp;&nbsp; ``` $ git status ``` 명령어를 사용하면 현재 추적되고 있는 파일과 추적되고 있지 않은 파일의 목록을 확인할 수 있습니다.
 
