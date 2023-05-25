@@ -42,13 +42,16 @@
 <br>
 
 #### push
-##### &nbsp;&nbsp;&nbsp;&nbsp; 원격 저장소를 통해 버전관리를 하고 있을 경우, 로컬 저장소의 commit 내역을 원격지에 반영하기 위해서 ```$ git push origin [branch명]```명령어를 사용할 수 있다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 만약 commit 이력에 포함되어있는 파일과 동일한 파일에 원격지 수정 사항이 있을 경우 소스코드 충돌이 발생하여 push되지 않는다.
+##### &nbsp;&nbsp;&nbsp;&nbsp; 원격 저장소를 통해 버전관리를 하고 있을 경우, 로컬 저장소의 commit 내역을 원격지에 반영하기 위해서 ```$ git push origin [branch명]```명령어를 사용할 수 있다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 만약 commit 이력에 포함되어있는 파일과 동일한 파일에 원격지 수정 사항이 있을 경우 소스코드 충돌이 발생하여 push되지 않는다
 
 
 <br>
   
 #### fetch
+##### &nbsp;&nbsp;&nbsp;&nbsp; 원격 저장소에 수정 사항이 존재할 경우 ```$ git fetch``` 명령어를 사용하여 수정 사항을 확인할 수 있다.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; fetch 명령어는 수정사항을 확인만 할 뿐 로컬 저장소에 반영하지 않는다.
   
 <br>
 
 #### pull
+##### &nbsp;&nbsp;&nbsp;&nbsp; 원격 저장소에 발생한 수정 사항을 확인 하고 로컬 저장소의 소스 코드와 병합한다.
