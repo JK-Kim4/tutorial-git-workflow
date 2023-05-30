@@ -34,11 +34,13 @@
 <br>
 
 #### cheakout
-##### &nbsp;&nbsp;&nbsp;&nbsp; heakout 명령어는 브랜치의 이동을 위해 사용한다.
+##### &nbsp;&nbsp;&nbsp;&nbsp; cheakout 명령어는 브랜치의 이동을 위해 사용한다.
 - 이동: ```git cheakout [이동할 branch 이름]```
 <br>
 
 #### merge
+##### &nbsp;&nbsp;&nbsp;&nbsp; 현재 브랜치로 다른 브랜치를 병합하기 원한다면 ```$ git merge``` 명령어를 사용할 수 있다.
+- ``` $ git merge feature-01 ```: 현재 브랜치로 feature-01 브랜치를 병합하기 원할 때 
 
 <br>
 
