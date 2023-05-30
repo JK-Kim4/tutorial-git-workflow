@@ -46,7 +46,3 @@
 
 #### rebase
 
-
-<br>
-
-#### pull request
